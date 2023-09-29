@@ -1,6 +1,6 @@
  # 💫 About Me:
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ReactJs and Tensorflow
+- 🔭 I’m currently working on a secure-authenticator app.
+- 🌱 I’m currently learning ReactJs and more.
 - 👯 I’m looking to collaborate on any software development or data analytics project.
 - 🤔 I’m looking for help with mobile app developments.
 - 📫 How to reach me: **abrahamayamigah070@gmail.com**

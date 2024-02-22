@@ -1,10 +1,3 @@
- # 💫 About Me:
-- 🔭 I’m currently working on a secure-authenticator app.
-- 🌱 I’m currently learning ReactJs and more.
-- 👯 I’m looking to collaborate on any software development or data analytics project.
-- 🤔 I’m looking for help with mobile app developments.
-- 📫 How to reach me: **abrahamayamigah070@gmail.com**
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/idea.gh.507) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abkc69) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abraham-ayamigah-a75665229) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AbKc320) 
 

@@ -22,11 +22,12 @@ In `Abraham Ayamigah`, we find a fusion of intellect and creativity, a symphony 
 <a href="https://app.daily.dev/abrahamayamigah"><img src="https://api.daily.dev/devcards/v2/j5hOkZ6M2BF3AIzHaWp9u.png?r=3jy&type=wide" width="100%" alt="Abraham Ayamigah's Dev Card"/></a>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ayamigah16&theme=dark&hide_width="100%"_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayamigah16&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayamigah16&theme=dark&hide_border=true)
+<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayamigah16&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ayamigah16&theme=dark&hide_width=100%_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayamigah16&theme=dark&hide_width=100%_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## 🏆 GitHub Trophies
